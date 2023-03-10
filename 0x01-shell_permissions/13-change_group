@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chgrb school ./hello
+chgrb school ./hello
